@@ -9,10 +9,12 @@ db/
 *.py
 
 # Temp markdown files
-*.md
+monografia_*.md
+monografia_plain.txt
 
 # Unpacked docx
 unpacked_monografia/
+monografia_correcao/
 
 # Environment
 .env*
